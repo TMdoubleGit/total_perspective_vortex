@@ -40,26 +40,26 @@ The dataset originates from a motor imagery experiment where participants were i
 
 ## Getting Started
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone git@github.com:TMdoubleGit/total_perspective_vortex.git
    cd total_perspective_vortex
 
-2. Prepare the dataset:
+2. **Prepare the dataset:**
 
 - Place the EEG dataset in the appropriate directory (datasets/ by default).
 
-3. Run the pipeline:
+3. **Run the pipeline:**
 
 - python total_perspective_vortex.py
 
-4. Deliverables:
+4. **Deliverables:**
 
 - A functional brain-computer interface capable of processing EEG data streams.
 - A custom dimensionality reduction algorithm integrated into scikit-learn.
 - A detailed report documenting the implementation, experiments, and results.
 
-5. References
+5. **References:**
 
 - [MNE Documentation](https://mne.tools/stable/index.html)
 - [scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
